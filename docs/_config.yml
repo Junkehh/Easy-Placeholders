@@ -1,5 +1,3 @@
 theme: jekyll-theme-midnight
 title: EasyPlaceholders
 description: Create custom placeholders with conditional outputs directly from your config
-show_downloads: true
-google_analytics: [Your tracking ID]
