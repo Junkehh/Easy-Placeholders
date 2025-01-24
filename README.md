@@ -4,7 +4,7 @@
 
 ![EasyPlaceholders](https://img.shields.io/badge/EasyPlaceholders-1.3-blue)
 ![Spigot](https://img.shields.io/badge/Spigot-1.21+-green)
-![License](https://img.shields.io/badge/license-CC-BY-ND-yellow)
+![License](https://img.shields.io/badge/license-CC%20BY--ND-blue)
 
 Create custom placeholders with conditional outputs directly from your config - no coding required!
 
