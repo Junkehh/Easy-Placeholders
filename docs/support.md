@@ -24,7 +24,7 @@ If you've found a bug or have a feature request:
 
 ### 4. Discord Support
 Join our Discord server for real-time support:
-[Discord Invite Link]
+[[Discord Invite Link]](https://discord.gg/ZWQtFbaxSj)
 
 ## Contributing
 
@@ -41,9 +41,8 @@ Help improve our documentation:
 3. Create a pull request
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the CC BY-ND License.
 
 ## Credits
 - Author: Junkeh
-- Contributors: [List of contributors]
 - Special thanks to the PlaceholderAPI team
