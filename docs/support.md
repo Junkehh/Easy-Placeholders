@@ -26,14 +26,6 @@ If you've found a bug or have a feature request:
 Join our Discord server for real-time support:
 [[Discord Invite Link]](https://discord.gg/ZWQtFbaxSj)
 
-## Contributing
-
-### Code Contributions
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Create a pull request
-
 ### Documentation
 Help improve our documentation:
 1. Fork the repository
